@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JM28s
 - 👀 I’m interested in ... Website Development & Python automation  
-- 🌱 I’m currently learning ... Python, React.Js, Node.Js & Liquid (Shopify.com implemention)
-- 💞️ I’m looking to collaborate on ... Java, Python, JavaScript and/or Shopify Projects 
+- 🌱 I’m currently learning ... Python, Js & Liquid (Shopify.com implemention)
+- 💞️ I’m looking to collaborate on ... Shopify, Js and/or Python Projects
 - 📫 How to reach me ... greyjedi28@gmail.com
 
 <!---
